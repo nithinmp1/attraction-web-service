@@ -1,0 +1,2 @@
+IP : ::1 Time : 14:26:16 AGENT : PostmanRuntime/7.32.3
+User name :- GBAB2C, Action :- GetAttractionFirstList , Mode :- TEST , IP :- ::1

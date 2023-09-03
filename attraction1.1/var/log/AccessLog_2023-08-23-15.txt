@@ -1,0 +1,8 @@
+IP : ::1 Time : 15:08:52 AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+User name :- GBAB2C, Action :- GetAttractionFirstListDetails , Mode :- TEST , IP :- ::1
+IP : ::1 Time : 15:15:48 AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+User name :- GBAB2C, Action :- GetAttractionFirstList , Mode :- TEST , IP :- ::1
+IP : ::1 Time : 15:20:07 AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+User name :- GBAB2C, Action :- GetAttractionFirstList , Mode :- TEST , IP :- ::1
+IP : ::1 Time : 15:27:22 AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+User name :- GBAB2C, Action :- GetAttractionFirstList , Mode :- TEST , IP :- ::1

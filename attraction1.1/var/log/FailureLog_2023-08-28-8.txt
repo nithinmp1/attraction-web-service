@@ -1,0 +1,4 @@
+IP : ::1 Time : 08:32:50 AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+No GetAttractionFirstListDetails   , IP :- ::1
+IP : ::1 Time : 08:33:22 AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+No GetAttractionFirstListDetails   , IP :- ::1

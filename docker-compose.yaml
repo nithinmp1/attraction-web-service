@@ -1,0 +1,32 @@
+version: '3'
+services:
+  web:
+    container_name: attraction
+    build:
+      context: ./
+    ports:
+      - "8000:80"
+    tty:
+      true
+    networks:
+      - my-network
+    restart: always
+  mysql:
+    image: mysql:8.0
+    container_name: mysql-server-80
+    command: --default-authentication-plugin=mysql_native_password
+    volumes:
+      - .:/application
+    restart: always
+    environment:
+      - MYSQL_ROOT_PASSWORD=.sweetpwd.
+      - MYSQL_DATABASE=my_db
+      - MYSQL_USER=db_user
+      - MYSQL_PASSWORD=.mypwd
+    ports:
+      - "8082:3306"
+    networks:
+      - my-network
+    restart: always
+networks:
+  my-network:
